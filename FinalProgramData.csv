@@ -1,0 +1,190 @@
+"University","City","State","School","BusinessSchool","EngSchool","ScienceSchool","Degree","Analytics","DataScience","YearBegan","DurationMonths","MinDuration","AvgDuration","MaxDuration","CreditHrs","InstateCost","OutofstateCost","AvgCost","StudentAge","StudentGPA","StudentWorkExpMonths","Pctwomen","PctInternational","AvgTOEFL","AppFeeCost.","PlacementRate","AvgStartingSalary","NumDSCources","NumBenefits","NumAppFeatures","NumProgramTypes","NumPostGradStatListed","Rigour"
+"University of South Florida","Tampa","Florida","Business",1,1,1,"Business Analytics",1,1,2015,15,15,15,15,33,6410,17324,9838,19,3.11,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,2.2
+"Illinois Institute of Technology","Chicago","Illinois","Science",0,0,1,"Data Science",0,1,2013,24,24,24,24,33,65386,70551,49280,19,3.56,6,NA,NA,NA,NA,NA,NA,5,2,4,2,0,1.375
+"Xavier University","Chicago","Illinois","Business",NA,NA,NA,"Business",1,1,2014,24,24,24,24,30,40450,40450,31000,20,2.95,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,1.25
+"Indiana University","Bloomington","Indiana","Business",1,0,0,"Business Analytics",1,0,2014,15,15,15,36,30,25657,52566,25657,19,3.63,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,2
+"Indiana University","Bloomington","Indiana","Informatics and Computing",0,0,1,"Data Science",0,1,2015,24,NA,24,60,30,25657,52566,25657,18,2.89,4,NA,NA,NA,NA,NA,NA,6,2,6,2,0,1.25
+"Iowa State University","Ames","Iowa","Business",1,0,0,"Business Analytics",1,0,2015,21,21,21,21,30,9320,24508,15000,21,2.87,2,NA,NA,NA,60,NA,NA,3,1,5,2,0,1.42857142857143
+"Harvard University","Cambridge","Massachusetts","School of Public Health",0,0,0,"Health Data Science",0,1,2017,16,16,16,16,60,73800,73800,73800,20,3.5,3,NA,NA,NA,NA,NA,NA,9,6,7,2,1,3.75
+"Harvard University","Cambridge","Massachusetts","Engineering",0,1,1,"Data Science",0,1,2018,15,15,15,15,36,73800,73800,73800,20,3.4,6,NA,NA,NA,NA,NA,NA,1,5,7,1,0,2.4
+"Kent State University","Kent","Ohio","Business and Administration",1,0,0,"Business Analytics",1,0,2016,12,12,12,12,30,10602,19478,18000,20,2.54,3,NA,NA,NA,NA,NA,NA,4,2,7,1,0,2.5
+"University of Dayton","Dayton","Ohio","Business",1,0,NA,"Business Analytics",1,1,2013,16,15,15,15,33,44100,44100,31000,20,3.02,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,2.0625
+"Saint Marys College of California","Moraga","California","Economics and Business Administration",1,0,0,"Business Analytics",1,0,2015,NA,12,NA,18,33,46543,46543,49188,35,NA,NA,0.43,NA,NA,50,NA,NA,8,NA,4,2,0,NA
+"Saint Louis University","St. Louis","Missouri","Business",1,0,0,"Applied Analytics",1,0,2014,NA,NA,NA,NA,36,NA,NA,45424,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,5,1,0,NA
+"Southern New Hampshire University","Manchester","New Hampshire","Science",0,0,1,"Data Analytics",1,0,2013,NA,15,NA,NA,36,22572,22572,22572,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,NA,NA,1,0,NA
+"Saint Peters University","Jersey City","New Jersey","Data Science",0,0,0,"Data Science",0,1,2014,18,NA,NA,NA,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,1,4,2,0,2
+"New Mexico State University","Las Cruces","New Mexico","Arts and Sciences",0,0,1,"Computational Data Analytics",1,0,2019,NA,NA,NA,NA,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,NA,NA,4,0,NA
+"Franklin University","Columbus","Ohio","Graduate School",0,0,0,"Business Analytics",1,0,NA,15,15,NA,NA,33,NA,NA,22110,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,1,3,1,2.2
+"Franklin University","Columbus","Ohio","Graduate School",0,0,0,"Data Analytics",1,0,NA,19,19,NA,NA,33,NA,NA,22110,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,1,3,1,1.73684210526316
+"Slippery Rock University","Butler County","Pennsylvania","Health, Environment and Science",0,0,0,"Data Analytics",1,0,2015,10,10,10,24,33,41445,60613,41445,NA,NA,NA,NA,NA,NA,25,NA,NA,3,3,1,3,0,3.3
+"South Dakota State University","Brookings","South Dakota","Math & Statistics",0,0,1,"Data Science",0,1,2014,12,12,NA,NA,30,NA,12786,22108.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,1,0,2.5
+"Southern Methodist University","Dallas","Texas","Humanities & Sciences",0,0,1,"Applied Statistics and Data Analytics",1,0,2013,NA,NA,NA,NA,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,1,0,NA
+"University of California Irvine","Irvine","California","Business",1,0,0,"Business Analytics",1,0,NA,11,11,11,11,52,55000,55000,55000,25,3.46,35,0.47,0.387,103,150,0.9,NA,10,4,6,1,0,4.72727272727273
+"University of Denver","Denver","Colorado","Business",1,0,0,"Business Analytics",1,0,NA,12,12,12,12,58,61944,61944,61944,28,3.33,48,0.57,0.33,NA,100,NA,NA,9,4,4,3,0,4.83333333333333
+"Brandeis University","Waltham","Massachusetts","Professional Studies",0,0,0,"Strategic Analytics",1,0,2014,18,18,NA,NA,30,35350,35350,35350,NA,NA,NA,0.4,NA,NA,NA,NA,NA,6,1,NA,2,1,1.66666666666667
+"University of Massachusetts Amherst","Amherst","Massachusetts","Business",1,0,0,"Business and Analytics",1,0,NA,12,12,12,48,31,25262,47995,36629,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1,5,4,0,2.58333333333333
+"Creighton University","Omaha","Nebraska","Business",1,0,0,"Business Intelligence and Analytics",1,0,2014,24,24,24,24,33,38346,38346,38346,NA,NA,NA,NA,NA,NA,50,NA,84500,5,4,6,3,0,1.375
+"City University of New York","New York City","New York","Professional Studies",0,0,0,"Data Analytics",1,0,2013,12,12,12,24,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,2,6,2,0,2.5
+"Columbia University","New York City","New York","Professional Studies",0,0,0,"Applied Analytics",1,0,2016,24,30,30,36,36,48432,48432,48432,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,NA,5,4,0,1.5
+"Case Western Reserve University","Cleveland","Ohio","Business",1,0,0,"Business Analytics",1,0,2016,11,11,NA,16,33,50096,50096,50096,23,3.5,18,0.56,0.67,NA,NA,NA,NA,6,5,6,1,0,3
+"Dakota State University","Madison","South Dakota","Graduate Office",0,0,0,"Analytics",1,0,2014,18,18,NA,60,39,14430,24024,19227,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,1,3,3,0,2.16666666666667
+"College of William & Mary","Williamsburg","Virginia","Business",1,0,0,"Business Analytics",1,0,2015,12,12,12,12,33,40106,46878,43492,24,3.49,NA,0.375,NA,NA,100,NA,NA,9,0,7,2,0,2.75
+"California Polytechnic State University – San Luis Obispo","San Luis","California","Business",1,0,0,"Business Analytics",1,0,2016,10,10,10,10,45,31275,31275,31275,NA,NA,NA,NA,NA,NA,NA,0.88,79842,NA,5,6,1,NA,4.5
+"Northwestern University","Chicago","Illinois","Engineering",0,1,0,"Analytics",1,0,2012,15,15,15,15,36,93720,93720,93720,NA,NA,24,0.48,NA,95,NA,NA,NA,7,5,7,1,1,2.4
+"University of Maryland, College Park","College Park","Maryland","Business",1,0,0,"Business Analytics",1,0,2015,16,16,16,16,30,47460,60450,53955,23,3.4,12,0.52,NA,NA,75,0.87,86000,10,6,6,2,2,1.875
+"Temple University","Philadelphia","Pennsylvania","Business",1,0,0,"Business Analytics",1,0,2014,24,12,24,60,30,33420,33420,33420,NA,NA,NA,NA,NA,NA,60,0.86,88000,3,6,3,2,0,1.25
+"University of Texas at San Antonio","San Antonio","Texas","College of Business",1,0,0,"Data Analytics",1,0,2016,12,12,12,21,30,17000,46500,31750,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5,4,2,0,2.5
+"University of Utah","Salt Lake City","Utah","Business",1,0,0,"Business Analytics",1,0,2016,12,12,16,24,33,34550,59200,46875,NA,NA,NA,NA,NA,NA,55,NA,NA,4,6,5,2,1,2.75
+"Western Governors University","Salt Lake City","Utah","College of Information Technology",0,0,0,"Data Analytics",1,0,2016,18,18,18,36,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,65,NA,NA,5,2,1,4,0,1.83333333333333
+"University of San Francisco","San Francisco","California","Arts and Science",0,0,1,"Data Science",0,1,2012,12,12,12,12,35,50050,50050,50050,24,3.63,24,0.45,0.6,NA,NA,0.95,120000,10,2,6,1,2,2.91666666666667
+"University of California, Davis","Davis","California","School of Management",1,0,0,"Business Analytics",1,0,2015,10,10,10,10,44,58916,58916,58916,24,3.5,24,0.66,NA,NA,125,NA,NA,5,6,NA,1,0,4.4
+"Fairfield University","Fairfield","Connecticut","Business",1,0,0,"Business Analytics",1,0,2015,12,12,12,24,30,37800,37800,37800,27,3.8,NA,0.35,NA,NA,60,0.95,NA,5,5,6,3,0,2.5
+"Michigan State University","East Lansing","Michigan","Business",1,0,0,"Business Analytics",1,0,2013,12,12,12,12,30,36000,39000,37500,26,3.45,NA,NA,NA,NA,NA,1,85200,8,6,6,1,0,2.5
+"Washington University in St. Louis","St. Louis","Missouri","Business",1,0,0,"Business Analytics",1,0,2013,18,18,18,18,39,87685,87685,87685,23,3.5,NA,0.58,0.98,NA,NA,0.97,80000,9,5,4,2,0,2.16666666666667
+"College of Saint Elizabeth","Morristown","New Jersey","School of Arts and Sciences",0,0,1,"Data Analytics",1,0,1899,12,12,12,12,36,31620,31620,31620,24,2.6,NA,0.89,0.85,79,35,NA,68153,7,6,6,2,0,3
+"College of Saint Rose","Albany","New York","School of Business",1,0,0,"Business Analytics",1,0,1920,24,24,24,24,33,32835,32835,32835,24,3.3,NA,0.7,0.73,NA,0,NA,87000,7,6,4,1,0,1.375
+"Duke University","Durham","North Carolina","School of Business",1,0,0,"Quantitative Management",1,0,1920,10,10,10,10,36,69800,69800,69800,23,4.03,6,0.56,0.22,NA,125,NA,80000,10,6,6,2,0,3.6
+"Villanova University","Radnor Township","Pennsylvania","Business",1,0,0,"Analytics",1,0,2014,24,24,24,24,36,49500,49500,37000,NA,NA,NA,NA,NA,NA,65,0.981,62879,5,6,7,1,2,1.5
+"University of Texas at Austin","Austin","Texas","Business",1,0,0,"Business Analytics",1,0,2013,10,10,10,10,36,43000,48000,45500,24,3.66,12,0.43,0.52,NA,NA,0.98,86175,4,6,7,1,2,3.6
+"Arizona State University","Phoenix","Arizona","Business",1,0,0,"Business Analytics",1,0,2013,9,9,9,9,30,33608,53288,43448,26,3.42,32,0.46,0.85,99,70,0.769,77601,2,3,4,2,1,3.33333333333333
+"University of California, San Diego","San Diego","California","Business",1,0,0,"Business Analytics",1,0,2016,12,12,12,12,50,58000,58000,58000,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,6,6,2,2,4.16666666666667
+"Golden Gate University","San Fransico","California","School Of Science",0,0,1,"Business Analytics",1,0,2016,24,20,18,24,36,39240,39240,39240,24,2.8,0,0.3,NA,NA,NA,NA,NA,7,4,NA,4,0,1.5
+"University of Chicago","Chicago","Illinois","Liberal and Professional studies",0,0,0,"Analytics",1,0,2014,18,18,18,18,36,55680,55680,55680,NA,NA,NA,NA,NA,NA,75,NA,NA,7,NA,8,2,2,2
+"Saint Marys College","Notre Dame","Indiana","Liberal and Professional studies",0,0,0,"Data Science",1,0,NA,24,NA,NA,NA,36,24300,24300,24300,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,1,4,3,NA,1.5
+"Bentley University","Waltham","Massachusetts","Business",1,0,0,"Business Analytics",1,0,2014,24,24,24,24,30,67250,67250,67250,23,NA,10,0.57,NA,105,90,0.95,83404,6,4,4,3,1,1.25
+"Suffolk University Boston","Boston","Massachusetts","Business",1,0,0,"Business Analytics",1,0,NA,9,9,NA,21,31,47220,47220,47220,NA,NA,NA,NA,NA,NA,50,NA,NA,9,4,4,3,NA,3.44444444444444
+"University of Rochester","Rochester","New York","Business",1,0,0,"Business Analytics",1,0,2014,10,10,14,17,33,65000,65000,65000,23,3.3,12,0.62,NA,106,NA,0.84,68000,12,6,5,1,1,3.3
+"Syracuse University","Syracuse","New York","School of Information Studies",0,0,1,"Applied Data Science",0,1,NA,24,NA,NA,NA,36,35343,35343,35343,NA,NA,NA,NA,NA,NA,75,NA,81753,NA,1,5,3,NA,1.5
+"Wake Forest University","Winston-Salem","North Carolina","School of Business",1,0,0,"Business Analytics",1,0,2016,10,10,10,10,37,50082,50082,50082,NA,3.43,NA,0.5,NA,NA,100,1,71055,9,6,6,2,1,3.7
+"University of Southern California, Marshall","Los Angeles","California","Business",1,0,0,"Business Analytics",1,0,2014,18,12,18,18,33,60951,70000,70000,NA,3.67,18,0.54,0.74,NA,NA,NA,NA,6,2,5,2,2,1.83333333333333
+"University of Colorado Boulder","Boulder","Colorado","Business",1,0,0,"Business Analytics",1,0,2014,10,10,10,10,33,13556,33014,23285,NA,NA,NA,NA,NA,NA,70,1,NA,5,NA,6,3,0,3.3
+"University of New Haven","West Haven","Connecticut","Engineering",0,1,0,"Data Science",0,1,2015,12,12,NA,NA,30,28950,28950,28950,NA,NA,NA,NA,NA,NA,NA,1,80000,3,3,7,1,1,2.5
+"Bay Path University","Longmeadow","Massachusetts","Business",1,0,0,"Applied Data Science",0,1,2012,12,12,NA,24,36,31680,31680,31680,NA,3,NA,NA,NA,NA,NA,NA,NA,11,3,3,3,0,3
+"Clark University","Worcester","Massachusetts","School of Management",1,0,0,"Business Analytics",1,0,NA,36,NA,NA,36,NA,57475,57475,57475,NA,NA,NA,NA,NA,NA,75,NA,NA,6,3,4,1,0,NA
+"University of Minnesota","Twin Cities","Minnesota","School of Management",1,0,0,"Business Analytics",1,0,2014,12,12,12,24,45,45900,45900,60300,24,3.54,NA,NA,NA,NA,75,1,82433,9,3,7,1,2,3.75
+"Carnegie Mellon University","Pittsburgh","Pennsylvania","Business",1,0,0,"Master of Information Systems Management (concentration in Business intelligence and Data Analytics)",0,0,2011,16,12,16,16,NA,115207,115207,115207,NA,3.55,NA,NA,NA,NA,NA,NA,NA,10,6,5,3,0,NA
+"Brown University","Providence","Rhode Island","Graduate School",0,0,0,"Data Science",0,1,NA,12,9,NA,24,9,69204,69204,69204,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,3,5,1,2,0.75
+"University of Tennessee","Knoxville","Tennessee","Business",1,0,0,"Business Analytics",1,0,2010,18,18,18,24,38,26391,54018,22293,NA,3.56,31,0.25,0.19,NA,60,1,85200,9,5,6,1,0,2.11111111111111
+"University of Virginia","Charlottesville","Virginia","Data Science Institute",0,0,0,"Data Science",0,1,2014,11,11,11,11,35,35264,49976,35500,NA,3,0,0.46,NA,90,85,NA,NA,10,5,6,1,2,3.18181818181818
+"Western Illinois University","Macomb","Illinois","College of Business & Technology",1,0,0,"Applied Statistics and Decision Analytics",1,0,2016,12,12,12,18,36,11651.04,11651.04,11651.04,23,2.75,0,0.42,NA,NA,NA,NA,50000,9,5,2,1,1,3
+"Valparaiso University","Valparasio","Indiana","Graduate School",0,0,0,"Analytics and Modeling",1,0,2015,12,12,12,12,36,22680,22680,22680,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,5,6,1,0,3
+"Wayne State University","Detriot","Michigan","Engineering",0,1,0,"Data Science and Business Analytics",1,1,2017,12,12,24,24,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,6,2,0,2.5
+"Drew University","Madison","New Jersey","Graduate School",0,0,0,"Data Analytics",1,0,2016,12,12,12,24,36,15276,15276,15276,NA,NA,NA,NA,NA,NA,NA,NA,105000,1,1,3,4,NA,3
+"Duquesne University","Pittsburgh","Pennsylvania","Business",1,0,0,"Analytics and Information Management",1,0,2018,12,12,12,24,30,16032,16032,16032,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,5,2,NA,2.5
+"College of Charleston","Charleston","South Carolina","Graduate School",0,0,0,"Data Science and Analytics",1,1,2018,13,13,13,13,36,7715,18296,13005.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,2,NA,2.76923076923077
+"Utah State University","Logan","Utah","Science",0,0,1,"Data Analytics",1,0,2017,12,12,12,12,33,20215,25064,22639.5,NA,NA,NA,NA,NA,NA,NA,NA,80265,7,1,5,1,0,2.75
+"Virginia Commonwealth University","Richmond","Virginia","School of Business",1,0,0,"Decision Analytics",1,0,2014,20,20,20,20,33,43000,43000,43000,NA,NA,36,NA,NA,NA,NA,NA,NA,3,1,5,2,0,1.65
+"Virginia Tech","Blacksburg","Virginia","Business",1,0,0,"Business Analytics",1,0,2015,9,9,9,9,30,24243,41987,33115,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,6,7,1,0,3.33333333333333
+"West Virginia University","Morgantown","West Virginia","College of Business and Economics",1,0,0,"Business Data Analytics",1,0,2016,12,12,12,12,30,8937,8937,8937,23,3,12,0.45,NA,580,NA,NA,NA,11,4,4,2,0,2.5
+"Northwestern University","Evanston","Illinois","Professional Studies",0,0,0,"Data Science",0,1,2011,15,15,15,15,NA,52140,52140,52140,NA,NA,NA,NA,NA,NA,75,NA,NA,9,NA,5,3,0,NA
+"Northeastern University","Boston","Massachusetts","Business",1,0,0,"Business Analytics",1,0,2015,16,12,16,20,NA,NA,NA,NA,NA,3.24,75.6,0.59,NA,NA,NA,NA,NA,4,3,5,3,1,NA
+"Northeastern University","Boston","Massachusetts","Professional Studies",0,0,0,"Analytics",1,0,2016,24,24,24,24,30,40600,40600,40600,NA,NA,NA,NA,NA,NA,75,NA,NA,7,3,5,3,0,1.25
+"Northeastern University","Boston","Massachusetts","Computer and Information Science",0,0,1,"Data Science",0,1,2016,24,24,24,36,32,53300,53300,53300,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,4,8,2,0,1.33333333333333
+"New York University",NA,"New York","Science",0,0,1,"Business Analytics",1,0,2013,12,12,12,12,NA,79000,79000,79000,NA,NA,60,NA,NA,NA,103,NA,NA,14,3,4,1,0,NA
+"New York University",NA,"New York","Science",0,0,1,"Data Science",0,1,2013,24,24,24,24,36,NA,NA,NA,NA,3.69,NA,NA,NA,NA,80,NA,NA,5,3,7,2,2,1.5
+"Oregon State University",NA,"Oregon","Electrical engineering",0,1,0,"Data Analytics",1,0,2016,24,24,24,24,45,19008,19008,19008,NA,NA,NA,NA,NA,NA,75,NA,NA,NA,NA,6,3,0,1.875
+"Georgia State","Atlanta","Geogria","Business",1,0,0,"Data Science and Analytics",1,1,2014,12,12,16,24,30,39000,45000,42000,27,3.45,45.6,0.44,0.72,NA,50,NA,73533,12,6,4,2,2,2.5
+"University of Maryland","College Park","Maryland","University College",0,0,0,"Data Science and Analytics",1,1,2013,NA,NA,NA,45,36,38000,38000,38000,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,3,2,2,0,NA
+"Babson College","Wellesley","Massachusetts","Business",1,0,0,"Business Analytics",1,0,NA,9,9,13,16,30,NA,NA,84081,NA,3.12,8,0.64,0.4,NA,100,NA,NA,6,6,5,2,NA,3.33333333333333
+"Unversity of St Thomas Minnesota","St Paul","Minnesota","Business",1,0,0,"Business Analytics",1,0,NA,16,16,NA,50,30,NA,NA,36540,27,3.1,3,0.62,NA,90,60,NA,NA,9,5,5,3,NA,1.875
+"University of Montana","Missoula","Montana","Business",1,0,0,"Business Analytics",1,0,NA,12,NA,NA,NA,32,6610,21958,14284,NA,NA,NA,0.56,NA,NA,80,NA,NA,6,4,6,3,NA,2.66666666666667
+"Columbia University","New York City","New York","Institute for Data Science and Engineering",0,1,0,"Data Science",0,1,2015,12,12,12,12,30,63120,63120,63120,NA,NA,NA,NA,NA,NA,85,1,NA,4,NA,7,3,0,2.5
+"Wittenberg University","Springfield","Ohio","School of Community Education",0,0,0,"Analytics",1,0,2016,12,12,12,12,33,38680,38680,38680,24,3,0,0.48,NA,NA,NA,NA,60000,10,3,5,2,2,2.75
+"Drexel University","Philadelphia","Pennsylvania","Business",1,0,0,"Business Analytics",1,0,2012,18,18,18,24,45,51255,51255,51255,NA,NA,NA,NA,NA,NA,NA,NA,81911,4,1,7,2,0,2.5
+"Texas A&M University","College Station","Texas","Science",0,0,1,"Analytics",1,0,2013,20,20,20,20,36,65000,65000,65000,35,3.52,147,0.22,NA,NA,NA,NA,NA,11,3,6,2,0,1.8
+"Texas Tech University","Lubbock","Texas","Business",1,0,0,"Data Science",0,1,2015,12,12,12,12,36,20000,30000,22000,27,NA,24,NA,NA,NA,NA,1,NA,6,4,6,2,1,3
+"University of Denver","Denver","Colorado","Daniels College of Business",1,0,0,"Business Information and Analytics",1,0,2014,12,12,NA,24,58,61944,61944,61944,28,3.33,48,0.57,0.33,94,100,NA,NA,8,5,3,2,2,4.83333333333333
+"University of Denver","Denver","Colorado","Engineering",0,1,0,"Analytics",1,0,2015,18,18,18,24,30,24000,40950,40950,24,NA,NA,NA,NA,NA,NA,0.91,NA,10,6,4,2,0,1.66666666666667
+"University of Connecticut","Srorrs","Connecticut","Business",1,0,0,"Business Analytics",1,0,2012,12,12,12,12,37,38850,38850,38850,25,3.4,24,0.49,NA,98,75,0.92,82600,9,5,3,3,1,3.08333333333333
+"George Washington University","Washington","District of Columbia","Business",1,0,0,"Business Analytics",1,0,2013,16,12,16,24,33,60225,60225,60225,NA,NA,NA,NA,NA,NA,NA,0.91,NA,8,4,7,2,2,2.0625
+"Johns Hopkins University","Baltimore","Maryland","Arts and Science",0,0,1,"Government Analytics",1,0,2014,16,16,16,24,36,50808,50808,50808,NA,NA,NA,NA,NA,NA,75,0.9,NA,10,2,5,3,0,2.25
+"Merrimack College","North Andover","Massachusetts","Science and Engineering",0,1,1,"Data Science",0,1,NA,12,7,NA,16,32,NA,NA,31080,NA,NA,NA,NA,NA,NA,0,NA,NA,5,3,3,3,0,2.66666666666667
+"Maryville University","St. Louis","Missouri","Business",1,0,0,"Business Data Analytics",1,0,2017,12,12,NA,NA,30,NA,NA,22950,NA,NA,NA,NA,NA,NA,0,NA,NA,6,2,2,3,0,2.5
+"Hofstra University","Hempstead","New York","Business",1,0,0,"Business Analytics",1,0,NA,12,NA,NA,NA,30,NA,NA,44610,NA,NA,NA,NA,NA,NA,75,1,NA,9,4,4,2,2,2.5
+"North Carolina State University","Raleigh","North Carolina","Business",1,0,0,"Analytics",1,0,2007,10,10,10,10,30,24352,47132,35500,25,3.66,NA,0.37,0.1,NA,NA,NA,NA,15,1,6,1,2,3
+"Oklahoma State University","Stillwater","Oklahoma","Management",1,0,0,"Business Analytics",1,0,2015,24,24,24,24,37,16150,40050,28100,NA,NA,NA,NA,NA,89,NA,0.9,81300,15,3,6,2,1,1.54166666666667
+"University of Alabama in Huntsville","Huntsville","Alabama","College of Business",1,0,0,"Management Science – Business Analytics",1,0,2016,12,12,18,24,30,12072,27008,19540,23,3,0,NA,NA,NA,NA,NA,NA,9,4,5,2,0,2.5
+"University of California at Berkely","Berkeley","California","School of information",0,0,0,"Data Science",0,1,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,140,NA,110000,NA,NA,5,2,0,NA
+"University of California, Irvine","Irvine","California","Business",1,0,0,"Predictive Analytics",1,0,2015,24,NA,24,NA,30,46200,46200,46200,25,NA,NA,NA,NA,NA,NA,NA,NA,10,6,5,1,0,1.25
+"San Diego State University","San Diego","California","Human Dynamics",0,0,0,"Big Data Analytics",1,1,NA,24,NA,NA,NA,30,17844,32100,24972,NA,NA,NA,NA,NA,NA,70,NA,NA,7,NA,5,NA,NA,1.25
+"University of Colorado Denver","Denver","Colorado","Business",1,0,0,"Analytics",1,0,2014,24,NA,24,NA,30,17130,39450,39450,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,4,6,2,0,1.25
+"American University","Washington","District of Columbia","Business",1,0,0,"Analytics",1,0,2015,24,12,24,24,33,59796,59796,59796,NA,NA,NA,0.5,0.25,NA,100,0.94,60000,8,3,6,3,0,1.375
+"Florida International University","Mami","Florida","Science",0,0,1,"Data Science",0,1,NA,NA,NA,NA,NA,NA,14447,30828,22637.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,7,1,NA,NA
+"Emory University","Atlanta","Geogria","Business",1,0,0,"Business Analytics",1,0,NA,10,NA,NA,NA,33,NA,NA,75651,27,3.55,36,0.41,0.75,NA,150,0.96,NA,1,2,6,1,2,3.3
+"Purdue University","West Lafayette","Indiana","Business",1,0,0,"Business Analytics & Information Management",1,0,2016,11,11,11,11,36,24300,34200,29250,25,3.62,33,0.45,NA,NA,75,1,81320,13,3,7,1,2,3.27272727272727
+"University of Notre Dame","Norte Dame","Indiana","Business",1,0,0,"Business Analytics",1,0,2015,10,10,10,10,30,53510,53510,53510,23,3.6,NA,0.45,0.7,NA,NA,0.93,84305,9,6,6,1,0,3
+"Stevens Institute of Technology","Hoboken","New Jersey","Business",1,0,0,"Business Intelligence and Analytics",1,0,2012,15,15,15,NA,36,37414,37414,37414,NA,NA,NA,NA,NA,NA,NA,0.92,87500,8,4,6,3,0,2.4
+"Seton Hall University","South Orange","New Jersey","Arts and Sciences",0,0,1,"Data Science",0,1,2019,16,NA,NA,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,108000,5,NA,6,2,NA,1.875
+"Stockton University","Galloway","New Jersy","Business",1,0,0,"Data Science and Strategic Analytics",1,1,2017,12,12,NA,20,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,NA,NA,NA,5,5,2,0,2.5
+"Pace University","Plesantville","New York","Business",1,0,0,"Customer Intelligence and Analytics",1,0,2013,24,24,24,24,36,48384,NA,48384,NA,NA,NA,NA,NA,NA,70,NA,NA,3,1,7,1,0,1.5
+"Syracuse University","Syracuse","New York","Business",1,0,0,"Business Analytics",1,0,2015,24,18,24,24,39,60801,60801,60801,36,NA,12,0.33,0.31,NA,NA,NA,NA,10,6,5,2,0,1.625
+"University of Cincinnati","Cincinnati","Ohio","Business",1,0,0,"Business Analytics",1,0,2011,12,9,12,12,33,10479,21922,12438,26,3.53,NA,0.35,0.84,106,NA,0.96,NA,5,4,5,2,0,2.75
+"Ohio University","Athens","Ohio","Business",1,0,0,"Business Analytics",1,0,NA,20,16,18,20,30,35250,35820,35535,NA,NA,NA,NA,NA,NA,50,NA,120931,7,1,4,2,NA,1.5
+"Southern Methodist University","Dallas","Texas","Business",1,0,0,"Business Analytics",1,0,2014,9,9,9,17,33,77360,77360,77360,NA,NA,NA,NA,NA,NA,NA,0.95,NA,8,NA,3,2,0,3.66666666666667
+"University of Dallas","Dallas","Texas","Business",1,0,0,"Business Analytics",1,0,2015,12,12,NA,36,30,37500,37500,37500,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,3,3,4,0,2.5
+"University of Notre Dame","South Bend","Indiana","Business",1,0,0,"Data Analytics",1,0,2015,12,12,12,12,30,61405,61405,61405,30,NA,24,NA,NA,NA,NA,NA,NA,7,5,6,1,0,2.5
+"Worcester Polytechnic","Worcester","Massachusetts","Business",1,0,0,"Data Science",0,1,2014,NA,NA,NA,NA,33,28980,28980,28980,NA,3,36,NA,NA,NA,70,NA,NA,9,3,7,2,0,NA
+"Boston University","Boston","Massachusetts","Business",1,0,0,"Business Analytics",1,0,NA,24,24,24,24,45,102527,102527,102527,24,3.58,NA,0.55,NA,101,125,NA,NA,3,3,6,1,NA,1.875
+"University of Missouri","Columbia","Missouri","Informatics Institute",0,0,0,"Data and Analytics",1,0,2016,24,24,24,24,34,17000,17000,17000,23,3,0,NA,NA,80,NA,NA,NA,9,2,4,1,0,1.41666666666667
+"University of New Hampshire","Durham","New Hampshire","Graduate School",0,0,0,"Analytics",1,0,2015,11,11,11,11,36,27720,31680,29700,31,NA,NA,0.41,0.24,NA,NA,NA,78125,10,5,6,1,0,3.27272727272727
+"Binghamton University","Binghamton","New York","Business, Engineering, Science",1,0,0,"Data Analytics",1,0,2018,10,10,10,10,30,15400,31000,26466.67,NA,3,24,NA,NA,NA,NA,NA,NA,5,4,6,1,NA,3
+"University of North Carolina at Charlotte","Charlotte","North Carolina","Computing and Informatics",0,0,0,"Data Science and Business Analytics",1,1,2015,15,15,18,24,33,7295,13976,10635.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,4,7,3,0,2.2
+"University of North Carolina, Wilmington","Wilmington","North Carolina","Business",1,0,0,"Data Science",0,1,2016,16,16,16,16,36,4041.65,10511.91,7276.78,25,NA,NA,NA,NA,NA,NA,NA,NA,10,6,4,1,0,2.25
+"University of Oklahoma","Norman","Oklahoma","Engineering",0,1,0,"Data Science and Analytics",1,1,2015,14,14,NA,14,33,24000,24000,24000,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,3,7,3,0,2.35714285714286
+"University of North Texas","Denton","Texas","Business",1,0,0,"Business Analytics",1,0,2015,10,10,10,10,36,13502,28442,28442,26,3.6,NA,0.52,0.42,NA,NA,NA,NA,9,6,3,3,0,3.6
+"University of the Pacific","Stockton","California","Engineering and Computer Science",0,1,0,"Data Science",0,1,2015,18,18,18,18,32,48352,48352,48352,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,3,4,1,0,1.77777777777778
+"University of Rochester","Rochester","New York","Arts and Sciences",0,0,1,"Data Science",0,1,2015,9,9,9,9,30,47880,47880,47880,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,5,7,1,0,3.33333333333333
+"City University of New York","New York","New York","Business",1,0,0,"Business Analytics",1,0,NA,NA,NA,NA,NA,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,1,2,NA,NA
+"Charleston Southern University","Charleston","South Carolina","Adult and Professional Studies",0,0,0,"Analytics",1,0,NA,12,12,18,24,30,19500,NA,19500,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,2.5
+"Clemson University","Clemson","South Carolina","Business and Science",1,0,1,"Data Science and Analytics",1,1,NA,18,18,24,30,30,51000,51000,51000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,4,NA,1.66666666666667
+"University of Texas at Arlington","Arlington","Texas","Business",1,0,0,"Business Analytics",1,0,2015,12,12,12,12,36,18256,37756,28006,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,3,7,1,0,3
+"University of Texas- Dallas","Richardson","Texas","Business",1,0,0,"Analytics",1,0,2014,16,12,16,24,36,43000,43000,43000,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,2,5,2,0,2.25
+"University of Washington","Seattle","Washington","Science",0,0,1,"Data Science",0,1,2017,12,12,18,24,33,46125,46125,46125,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,3,2,0,2.75
+"University of Washington Tacoma","Tacoma","Washington","Science",0,0,1,"Business Analytics",1,0,2017,12,12,12,12,40,24440,30440,27440,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,1,2,1,0,3.33333333333333
+"University of Wisconsin–Extension, Extension now merged with Madison","Madison","Wisconsin","Extension",0,0,0,"Data Science",0,1,2015,12,12,NA,NA,36,27900,27900,27900,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,5,4,3,0,3
+"Grand Canyon University","Phoenix","Arizona","Colangelo College of Business",1,0,0,"Business Analytics",1,0,2014,18,18,24,24,38,33000,33000,33000,NA,NA,0,NA,NA,NA,NA,NA,NA,3,1,NA,3,0,2.11111111111111
+"George Washington University","Washington","District of Columbia","Arts and Science",0,0,1,"Data Science",0,1,2015,12,12,12,12,30,54750,54750,54750,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,2,5,1,0,2.5
+"Georgetown University","Washington","District of Columbia","Arts and Science",0,0,1,"Analytics",1,0,2015,16,12,16,36,30,66420,66420,66420,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,3,7,2,2,1.875
+"Elmhurst College","Elmhurst","Illinois","Technology",0,0,0,"Data Science",0,1,2014,24,24,24,24,30,26550,26550,26550,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,6,2,2,1.25
+"University of Notre Dame",NA,"Indiana","Science",0,0,1,"Data Science",0,1,NA,21,21,21,21,30,52000,52000,52000,NA,NA,NA,NA,NA,NA,75,1,NA,7,NA,5,2,NA,1.42857142857143
+"Fordham University","Bronx","New York","Business",1,0,0,"Business Analytics",1,0,2012,12,12,12,24,30,44130,44130,49645,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2,6,2,1,2.5
+"Fordham University","Bronx","New York","Art and Science",0,0,1,"Data Analytics",1,0,2016,12,12,12,24,30,44130,44130,29160,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,NA,7,2,1,2.5
+"Harrisburg University of Science and Technology","Harrisburg","Pennsylvania","Science",0,0,1,"Analytics",1,0,2013,24,24,24,24,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,1,1,0,1.5
+"University of Pennsylvania","Philadelphia","Pennsylvania","Engineering",0,1,0,"Data Science",0,1,NA,21,18,21,24,30,75940,75940,75940,NA,NA,NA,NA,NA,NA,80,NA,NA,9,0,5,1,NA,1.42857142857143
+"University of North Texas","Denton","Texas","Information Science",0,0,1,"Data Science",0,1,NA,NA,NA,NA,NA,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,75,NA,NA,4,1,6,NA,NA,NA
+"Mercer University","Atlanta","Geogria","Business and Economics",1,0,0,"Business Analytics",1,0,2015,15,15,15,16,39,34515,34515,28353,32,3.32,NA,NA,NA,80,50,NA,NA,3,1,3,1,0,2.6
+"Loyola University- Maryland","Baltimore","Maryland","Business",1,0,0,"Data Science",0,1,2015,24,12,24,36,31,31000,31000,31000,23,3.52,NA,NA,NA,80,60,NA,NA,8,6,2,2,0,1.29166666666667
+"Massachusetts Institute of Technology","Cambridge","Massachusetts","Management",1,0,0,"Business Analytics",1,0,2016,12,12,12,12,NA,82368,82368,82368,23,3.9,15,0.4,0.7,100,150,NA,NA,7,5,8,3,2,NA
+"Merrimack College","North Andover","Massachusetts","Business",1,0,0,"Business Analytics",1,0,2014,12,12,NA,16,32,30464,30464,30464,26,3,NA,NA,NA,100,0,NA,NA,5,6,4,1,NA,2.66666666666667
+"Michigan Technological University","Houghton","Michigan","Graduate School",0,0,0,"Data Science",0,1,2015,NA,NA,NA,NA,30,45452,45452,45452,25,NA,NA,NA,NA,80,NA,NA,NA,8,0,6,1,0,NA
+"New Jersey City University",NA,"New Jersey","Business",1,0,0,"Business Analytics and Data Science",1,1,2016,16,16,NA,24,33,22737,40053,40053,23,3.6,NA,NA,NA,90,55,NA,NA,3,1,7,2,0,2.0625
+"Mercyhurst University","Erie","Pennsylvania","Intelligence Studies and Applied Sciences",0,0,0,"Data Science",0,1,2015,21,21,21,21,36,37000,37000,31500,24,3.2,NA,NA,NA,90,0,NA,NA,4,1,2,1,0,1.71428571428571
+"Regis University","Denver","Colorado","Computer and Information Sciences",0,0,1,"Data Science",0,1,2015,NA,NA,NA,NA,36,34200,34200,34200,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,2,3,0,NA
+"Quinnipiac University","Hamden","Connecticut","Business",1,0,0,"Analytics",1,0,2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,45,NA,NA,6,NA,4,1,0,NA
+"Embry-Riddle Aeronautical University","Daytona Beach","Florida","Arts and Sciences",0,0,1,"Data Science",0,1,NA,NA,NA,NA,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1,4,4,NA,NA
+"Rowan University","Glassboro","New Jersey","Science & Mathematics",0,0,1,"Data Analytics",1,0,2016,NA,NA,NA,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,1,0,NA
+"Rutgers","New Brunswick","New Jersey","Science",0,0,1,"Business & Science",0,0,2012,18,18,NA,48,43,43645,54008,48826.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,3,6,4,0,2.38888888888889
+"Drew University","Madison","New Jersey","Graduate School",0,0,0,"Data Analytics",1,0,2019,36,12,NA,36,30,NA,NA,NA,NA,3,NA,NA,NA,NA,35,NA,69162,5,1,2,3,NA,0.833333333333333
+"Rensselaer Polytechnic Institute","Troy","New York","Business",1,0,0,"Business Analytics",1,0,2013,24,24,24,24,36,34900,34900,34900,24,3.5,NA,0.56,0.8,NA,NA,NA,73856,5,NA,3,1,1,1.5
+"Penn State Great Valley","Devault","Pennsylvania","Graduate Professional Studies",0,0,0,"Data Analytics",1,0,2015,36,36,36,36,30,27900,27900,27900,NA,3.2,NA,NA,NA,NA,65,NA,NA,7,NA,6,1,0,0.833333333333333
+"Saint Joseph’s University","Philadelphia","Pennsylvania","Business",1,0,0,"Business Intelligence and Analytics",1,0,2010,12,12,NA,24,30,33210,NA,33210,NA,NA,12,NA,NA,NA,NA,NA,NA,8,2,6,3,0,2.5
+"Duquesne University","Pittsburgh","Pennsylvania","Business",1,0,0,"Analytics and Information Management",1,0,NA,36,12,NA,36,30,29730,29730,29730,NA,NA,NA,NA,NA,NA,50,NA,NA,3,1,4,4,NA,0.833333333333333
+"Benedictine University","Lisle","Illinois","Business",1,0,0,"Business Analytics",1,0,2013,24,12,24,24,64,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,2,1,2,0,2.66666666666667
+"Louisiana State University","Baton Rouge","Louisiana","Business",1,0,0,"Analytics",1,0,2011,12,12,12,12,36,17000,38300,27650,NA,NA,NA,NA,NA,NA,50,NA,NA,7,2,7,3,1,3
+"University of Massachusetts at Lowell","Lowell","Massachusetts","Manning School of Business",1,0,0,"Business Analytics",1,0,2016,12,12,16,24,30,25266,44900,35083,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,3,507,2,0,2.5
+"Boston University","Boston","Massachusetts","Metropolitan College",0,0,0,"Applied Business Analytics",1,0,2016,18,18,22,24,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,85,NA,NA,2,2,6,4,0,2.22222222222222
+"Bellevue University","Bellevue","Nebraska","Business",1,0,0,"Business Analytics",1,0,2015,24,24,24,24,36,21060,21060,21060,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,1.5
+"University at Albany","Albany","New York","Mathematics & Statistics",0,0,1,"Data Science",0,1,2018,NA,NA,NA,NA,36,5655,11550,8602.5,NA,NA,NA,NA,NA,NA,0,NA,NA,8,1,1,1,1,NA
+"Appalachian State University","Boone","North Carolina","Business",1,0,0,"Applied Data Analytics",1,0,2016,12,12,12,24,36,11500,24932,18216,NA,NA,NA,NA,NA,NA,65,NA,NA,NA,5,8,2,0,3
+"Bowling Green State University","Bowling Green","Ohio","Graduate College",0,0,0,"Analytics",1,0,2014,12,12,12,12,33,15642,26946,21294,NA,NA,NA,NA,NA,NA,45,NA,77499,5,3,7,1,2,2.75
+"University of Tulsa","Tulsa","Oklahoma","Collins College of Business",1,0,0,"Master of Science in Business Analytics",1,0,NA,16,16,NA,NA,30,39300,39300,39300,NA,NA,NA,NA,NA,NA,55,NA,NA,9,4,6,2,0,1.875
+"Temple University","Philadelphia","Pennsylvania","Fox School of Business",1,0,0,"Master of Science in Business Analytics",1,0,2014,12,12,36,60,30,33420,33420,33420,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,4,5,2,1,2.5
+"University of Miami","Miami","Florida","Business",1,0,0,"Business Analytics",1,0,2014,10,NA,10,NA,31,60760,60760,60760,23,3.5,12,0.54,NA,NA,NA,NA,NA,8,6,4,1,0,3.1
+"University of Illinois at Chicago","Chicago","Illinois","Liautaud Graduate School of Business",1,0,0,"Business Analytics",1,0,2016,12,12,18,24,32,5740,11860,8800,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,5,2,0,2.66666666666667
+"DePaul University","Chicago","Illinois","Computing",0,0,0,"Data Science",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,3,1,2,2,NA
+"University of Iowa","Iowa","Iowa","Business",1,0,0,"Business Analytics",1,0,2015,16,16,NA,NA,45,30813.75,49713.75,40263.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,3,6,2,0,2.8125
+"University of Kansas Edwards Campus","Kansas","Kansas","Medical Center",0,0,0,"Applied Statistics and Analytics",1,0,2015,12,12,12,12,30,20010,20010,20010,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2,6,3,0,2.5
+"University of Massachusets, Boston","Boston","Massachusetts","Business",1,0,0,"Business Analytics",1,0,2015,10,NA,10,NA,31,60760,60760,60760,23,NA,NA,NA,NA,NA,NA,NA,NA,10,6,4,1,0,3.1
+"University of Michigan at Dearborn","Dearborn","Michigan","Business",1,0,0,"Business Analytics",1,0,2012,12,12,12,NA,30,NA,NA,NA,NA,NA,29,NA,NA,NA,NA,NA,NA,NA,2,6,2,0,2.5
+"University of Minnesota","Mnneapolis","Minnesota","Science and Engineering",0,1,0,"Data Science",0,1,2015,16,16,NA,24,31,33456,51768,42612,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,5,7,4,0,1.9375
+"Seton Hall University","South Orange","New Jersey","Business",1,0,0,"Business Analytics",1,NA,2019,NA,18,NA,24,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,3,3,1,0,NA
